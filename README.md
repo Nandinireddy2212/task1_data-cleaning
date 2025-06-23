@@ -1,6 +1,6 @@
 # task1 - data cleaning
 
-This task performs data cleaning and preprocessing on the Netflix Titles dataset using Python (Pandas) in Google Colab.
+This task performs data cleaning and preprocessing on the Netflix Titles dataset using Python (Pandas) in Google Colab
 
 ## Tools used 
 - Python (pandas) 
